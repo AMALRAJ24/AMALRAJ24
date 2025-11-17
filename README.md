@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AMALRAJ24
+# 👋 Hi, I’m AMAL RAJ
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on SOC analyst projects
